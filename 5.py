@@ -10,3 +10,8 @@ for k in a:
 
 #33
 
+#So, for each key-value pair in the dictionary,
+# it will print the same value, which is len(a) + sum. 
+# The value of len(a) is 3 (because there are three key-value pairs), and sum is calculated by adding up the values in the dictionary, which is 8 + 10 + 12 = 30. So, it will print 3 + 30, which is 33,
+#  for each key-value pair.
+
